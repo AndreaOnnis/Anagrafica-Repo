@@ -14,7 +14,7 @@ namespace OnnisApp
         private string sesso;
         private string dataDiNascita;
 
-        public ElencoPersone(string nome, string cognome, string classe, string sesso, string dataDiNascita)
+        public Persona(string nome, string cognome, string classe, string sesso, string dataDiNascita)
         {
             this.nome = nome;
             this.cognome = cognome;
